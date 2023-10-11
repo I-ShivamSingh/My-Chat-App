@@ -66,7 +66,14 @@ Follow these steps to set up My Chat App locally on your machine:
 
 ## Screenshots
 
-![Screenshot](screenshots/my-chat-app-screenshot.png)
+![Screenshot 1](Screens/1.png)
+![Screenshot 1](Screens/2.png)
+![Screenshot 1](Screens/3.png)
+![Screenshot 1](Screens/4.png)
+![Screenshot 1](Screens/5.png)
+![Screenshot 1](Screens/6.png)
+![Screenshot 1](Screens/7.png)
+
 
 ## Contributing
 
